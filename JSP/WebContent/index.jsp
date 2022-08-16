@@ -42,7 +42,7 @@ h5{
 <body>
 
 
-<h5>Bem vindo ao curso de JSP</h5>  
+<h5>Bem vindo!</h5>  
 
 
 

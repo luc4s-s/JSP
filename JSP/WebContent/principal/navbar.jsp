@@ -20,10 +20,10 @@
                           </div>
                       </div>
                       
-                      <!-- Imagem da Logo  -->
+                      <!-- Imagem da Logo  
                       <a href="index.html">
                           <img class="img-fluid" src="<%= request.getContextPath() %>/assets/images/logo.png" alt="Theme-Logo" />
-                      </a>
+                      </a>-->
                       <a class="mobile-options waves-effect waves-light">
                           <i class="ti-more"></i>
                       </a>
